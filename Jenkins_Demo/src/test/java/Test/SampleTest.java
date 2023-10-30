@@ -29,6 +29,14 @@ public class SampleTest extends BaseClass {
 	  
   }
   
+  @Test
+  public void TestCase4() {
+	  
+	  
+	  System.out.println("This is test 4");
+	  
+  }
+  
   
   
   
